@@ -1,6 +1,6 @@
-# AgriSights — Tamil Crop Analytics
+# Crop Analytics
 
-AgriSights (exported from Google AI Studio) is a React + TypeScript single-page app for crop and transaction analysis with multilingual support and AI-assisted insights aimed at farmers and agronomists.
+Crop Analytics (exported from Google AI Studio) is a React + TypeScript single-page app for crop and transaction analysis with multilingual support and AI-assisted insights aimed at farmers and agronomists.
 
 Features
 - Multi-language support via a LanguageContext.
@@ -44,9 +44,6 @@ Missing or recommended repo additions
 Notes about AI service
 - `services/gemini.ts` is the AI integration; provide the API key via environment variable (Vite uses `VITE_` prefixes for client-side env vars).
 - Consider moving sensitive calls to a server-side proxy if you want to hide keys from the client.
-
-Contributing
-- If you'd like further changes, I can open a PR that adds more refined build configuration, or move AI calls behind a small server.
 
 License
 - This repository did not contain a license; the MIT license has been added in `LICENSE`.
