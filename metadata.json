@@ -1,0 +1,5 @@
+{
+  "name": "AgriSights - Crop Analytics",
+  "description": "An agricultural dashboard that visualizes crop data showing profit comparisons and detailed cost breakdowns.",
+  "requestFramePermissions": []
+}
