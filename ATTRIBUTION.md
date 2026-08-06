@@ -14,5 +14,4 @@ This repository includes or references the following third-party assets. Review 
    - React / React DOM — MIT
    - lucide-react — check current license
    - Any charting libraries added — check their licenses (e.g., MIT / Apache / commercial)
-
-If you want, I can produce exact attribution lines (author / pack / license / URL) by extracting the icon URLs from `manifest.json` and checking their sources.
+------
