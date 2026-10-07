@@ -46,7 +46,7 @@ Notes about AI service
 - Consider moving sensitive calls to a server-side proxy if you want to hide keys from the client.
 
 License
-- This repository did not contain a license; the MIT license has been added in `LICENSE`.
+- The MIT license has been added in `LICENSE`.
 
 Attribution
 - The manifest references icons from an external CDN (flaticon). Those assets may require attribution. See `ATTRIBUTION.md` for details.
